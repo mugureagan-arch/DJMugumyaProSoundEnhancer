@@ -8,7 +8,7 @@
 #ifndef DJMUGUMYAPROSOUNDENHANCER_H
 #define DJMUGUMYAPROSOUNDENHANCER_H
 
-#include "include/vdjDsp8.h"
+#include "vdjDsp8.h"
 #include "AudioDSP.h"
 
 enum ParameterIDs {
