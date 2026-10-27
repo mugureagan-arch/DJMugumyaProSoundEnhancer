@@ -1,0 +1,4 @@
+LIBRARY "DJMugumyaProSoundEnhancer64"
+
+EXPORTS
+    DllGetClassObject PRIVATE
